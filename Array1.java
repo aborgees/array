@@ -1,4 +1,4 @@
-public class Arrayum {
+public class Array1 {
 public static void main(String[] args) {
 
 		Integer array[] = new Integer[9];
